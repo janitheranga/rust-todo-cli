@@ -26,9 +26,8 @@ You must have the Rust toolchain installed on your system. You can install it fr
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/rust-todo-cli.git](https://github.com/your-username/rust-todo-cli.git)
+    git clone [https://github.com/janitheranga/rust-todo-cli.git](https://github.com/janitheranga/rust-todo-cli.git)
     ```
-    *(Remember to replace `your-username` with your actual GitHub username!)*
 
 2.  **Navigate to the project directory:**
     ```bash
