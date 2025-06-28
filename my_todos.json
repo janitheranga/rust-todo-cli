@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Prepare for the big meeting",
+    "completed": false,
+    "priority": "High"
+  },
+  {
+    "description": "Check emails",
+    "completed": false,
+    "priority": "Medium"
+  },
+  {
+    "description": "Water the plants",
+    "completed": false,
+    "priority": "Low"
+  }
+]
